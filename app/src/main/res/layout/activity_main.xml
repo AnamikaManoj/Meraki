@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/meraki3"
+        android:layout_centerInParent="true"
+        android:id="@+id/icon_image"
+        android:visibility="visible"/>
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:id="@+id/Linear_layout">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            android:src="@drawable/meraki1"/>
+
+        <android.widget.Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/button_background"
+            android:text="Login"
+            android:fontFamily="cursive"
+            android:textSize="35dp"
+            android:textColor="#093E39"
+            android:textAllCaps="false"
+            android:id="@+id/Login"/>
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="10dp"/>
+
+        <android.widget.Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/button_background"
+            android:text="Sign up"
+            android:fontFamily="cursive"
+            android:textSize="35dp"
+            android:textColor="#093E39"
+            android:textAllCaps="false"
+            android:id="@+id/signup"/>
+
+     </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</RelativeLayout>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/anami/.gradle/caches/transforms-3/643db9bc4c52800d229c5324ced93a5c/transformed/jetified-socialview-commons-0.2/res/layout/socialview_layout_hashtag.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/anami/.gradle/caches/transforms-3/643db9bc4c52800d229c5324ced93a5c/transformed/jetified-socialview-commons-0.2/res/layout/socialview_layout_mention.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1875" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/drawable/button_background.xml" value="0.14537037037037037" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/drawable/edit_text_background.xml" value="0.1" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/drawable/ic_add_background.xml" value="0.1" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/drawable/ic_add_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/drawable/ic_close_foreground.xml" value="0.18871794871794872" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/drawable/ic_inbox_foreground.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18871794871794872" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/drawable/ic_noMoney_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/drawable/ic_options_foreground.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/drawable/ic_search_foreground.xml" value="0.18871794871794872" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/activity_comment.xml" value="0.12" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/activity_edit_post.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/activity_edit_profile.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/activity_followers.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/activity_home.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/activity_monetize.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/activity_options.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/activity_post.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/comment_item.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/content_comment.xml" value="0.1" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/fragment_homefrag.xml" value="0.1" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/fragment_notification.xml" value="0.15260416666666668" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/fragment_post_detail.xml" value="0.1" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/fragment_profile.xml" value="0.1259259259259259" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/fragment_search.xml" value="0.15260416666666668" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/monetize_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/notification_item.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/photo_item.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/post_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/tag_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/layout/user_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/menu/bottom_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/menu/menu_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/mipmap-anydpi-v26/ic_inbox.xml" value="0.1" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/mipmap-anydpi-v26/ic_inbox_round.xml" value="0.1" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1875" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/anami/AndroidStudioProjects/Meraki/app/src/main/res/mipmap-anydpi-v26/ic_noMoney.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
